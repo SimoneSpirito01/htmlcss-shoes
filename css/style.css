@@ -5,3 +5,26 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.box {
+    width: 100%;
+    height: 100vh;
+}
+
+/* primo prodotto */
+
+.primo.box {
+    background-color: red;
+}
+
+/* secondo prodotto */
+
+.secondo.box {
+    background-color: green;
+}
+
+/* terzo prodotto */
+
+.terzo.box {
+    background-color: yellow;
+}
