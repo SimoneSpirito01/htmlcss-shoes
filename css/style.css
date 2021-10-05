@@ -77,4 +77,5 @@
     background-color: white;
     margin-left: 20px;
     display: inline-block;
+    box-shadow: 3px 3px 17px -2px #000000;
 }
